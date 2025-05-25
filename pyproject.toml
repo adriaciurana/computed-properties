@@ -1,6 +1,6 @@
 [project]
 name = "computed-properties"
-version = "0.1.0"
+version = "0.1.1"
 description = "Small Python package that allows you to automatically precompute properties and recalculate them only when their dependencies change their value."
 authors = [
     {name = "Adrià Ciurana Lanau", email = "adri00796@gmail.com"}
